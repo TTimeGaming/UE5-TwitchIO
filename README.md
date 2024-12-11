@@ -7,7 +7,7 @@ This is an [Unreal Engine 5](https://unrealengine.com/) plugin that enables comm
 This plugin has been built with full support for both pure C++ and UE5 Blueprint projects. See the [Wiki](https://github.com/TTimeGaming/UE5-TwitchIO/wiki) for more information on getting started.
 
 ## EventSub Support
-**TwitchIO** adds support for various EventSub subscriptions. These are detailed in full [here](https://github.com/TTimeGaming/UE5-TwitchIO/wiki/API-Eventsub.md) but a simplified overview are as below:
+**TwitchIO** adds support for various EventSub subscriptions. These are detailed in full [here](https://github.com/TTimeGaming/UE5-TwitchIO/wiki/API-Eventsub) but a simplified overview are as below:
 - Stream Online/Offline
 - Chat/Whispers
 - Follows
@@ -24,7 +24,7 @@ This plugin has been built with full support for both pure C++ and UE5 Blueprint
 - VIP/Moderator Privileges
 
 ## API Support
-**TwitchIO** adds support for various API endpoints. These are detailed in full [here](https://github.com/TTimeGaming/UE5-TwitchIO/wiki/API-Twitch.md) but a simplified overview are as below:
+**TwitchIO** adds support for various API endpoints. These are detailed in full [here](https://github.com/TTimeGaming/UE5-TwitchIO/wiki/API-Twitch) but a simplified overview are as below:
 - Chat
 - Raids
 - Users
