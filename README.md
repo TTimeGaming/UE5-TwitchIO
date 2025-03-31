@@ -1,6 +1,6 @@
 # UE5 Plugin: TwitchIO
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-1.0.0-darkgreen?logo=unrealengine&logoColor=white)
-![Engine Version](https://img.shields.io/badge/Engine%20Version-5.4.0-blue?logo=unrealengine&logoColor=white)
+![Engine Version](https://img.shields.io/badge/Engine%20Version-5.5.4-blue?logo=unrealengine&logoColor=white)
 
 This is an [Unreal Engine 5](https://unrealengine.com/) plugin that enables communication [Twitch](https://twitch.tv/). Users can listen for various Twitch notifications, as well as access Twitch's API.
 
@@ -11,7 +11,7 @@ This plugin has been built with full support for both pure C++ and UE5 Blueprint
 - Stream Online/Offline
 - Chat/Whispers
 - Follows
-- Cheer Bits
+- Channel Bits/Cheer
 - Subscriptions
 - Raids
 - Shoutouts
