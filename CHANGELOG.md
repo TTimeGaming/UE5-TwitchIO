@@ -1,3 +1,16 @@
+### Version 1.0.0-rc.3
+
+#### Major Development
+- None
+
+#### API Changes
+- Reflects Twitch 2025-04-15 Changelog
+
+#### Bug Changes
+- None
+
+---
+
 ### Version 1.0.0-rc.2
 
 #### Major Development
